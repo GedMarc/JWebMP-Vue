@@ -1,0 +1,42 @@
+{
+  "name": "JWebMP-vue",
+  "authors": [
+    "Marc Magon <marc.magon@gmail.com>"
+  ],
+  "description": "JWebMP Web Library Packages Configuration",
+  "main": "",
+  "keywords": [
+    "JWebSwing",
+    "Java",
+    "WebFramework",
+    "RAD",
+    "Development",
+    "IDE",
+    "Develop"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.armineasy.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "vue#*"
+  },
+  "resolutions": {
+    "jquery": ">=1.3.2"
+  },
+  "ignoredDependencies": [
+    "jquery-ui",
+    "font-awesome",
+    "holderjs",
+    "metisMenu",
+    "cldrjs",
+    "bootstrap-social",
+    "flot.tooltip"
+  ]
+}
